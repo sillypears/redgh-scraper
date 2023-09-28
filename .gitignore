@@ -163,3 +163,4 @@ Scripts/*
 Include/*
 Lib/*
 env.ps1
+pyvenv.cfg
